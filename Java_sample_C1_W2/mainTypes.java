@@ -6,7 +6,7 @@ public class mainTypes {
 
 		// Literals
 		boolean result = true;
-		char capitalC = 'C';
+		char capitalC = 'C'; //with ' to mark
 		byte b = 100;
 		short s = 10000;
 		int i = 100000;
