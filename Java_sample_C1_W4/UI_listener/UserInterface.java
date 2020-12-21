@@ -35,6 +35,8 @@ public class UserInterface implements Runnable {
     	 container.setLayout(new BorderLayout());
     	 JButton button = new JButton("Click!");
          container.add((button),BorderLayout.EAST);
+		 	MessageListener list = new MessageListener(textAreaLeft, textAreaRight);
+		button.addActionListener(list);
          
          JLabel text = new JLabel("Text.");
          container.add((text),BorderLayout.WEST);
