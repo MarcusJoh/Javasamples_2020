@@ -1,0 +1,44 @@
+OrderDate,Region,Rep1,Rep2,Item,Units,UnitCost,Total
+1/6/2019,East,Jones,Sharell,Pencil,95,1.99,189.05
+1/23/2019,Central,Kivell,Francisca,Binder,50,19.99,999.5
+2/9/2019,Central,Jardine,Gregg,Pencil,36,4.99,179.64
+2/26/2019,Central,Gill,Wendie,Pen,27,19.99,539.73
+3/15/2019,West,Sorvino,Miles,Pencil,56,2.99,167.44
+4/1/2019,East,Jones,Jeana,Binder,60,4.99,299.4
+4/18/2019,Central,Andrews,Daine,Pencil,75,1.99,149.25
+5/5/2019,Central,Jardine,Arnita,Pencil,90,4.99,449.1
+5/22/2019,West,Thompson,Lorine,Pencil,32,1.99,63.68
+6/8/2019,East,Jones,Vivan,Binder,60,8.99,539.4
+6/25/2019,Central,Morgan,Ernest,Pencil,90,4.99,449.1
+7/12/2019,East,Howard,Flo,Binder,29,1.99,57.71
+7/29/2019,East,Parent,Lilli,Binder,81,19.99,1619.19
+8/15/2019,East,Jones,Kristyn,Pencil,35,4.99,174.65
+9/1/2019,Central,Smith,Tashina,Desk,2,125,250
+9/18/2019,East,Jones,Maryann,Pen Set,16,15.99,255.84
+10/5/2019,Central,Morgan,Nicolas,Binder,28,8.99,251.72
+10/22/2019,East,Jones,Donn,Pen,64,8.99,575.36
+11/8/2019,East,Parent,Arlie,Pen,15,19.99,299.85
+11/25/2019,Central,Kivell,Jade,Pen Set,96,4.99,479.04
+12/12/2019,Central,Smith,Jenifer,Pencil,67,1.29,86.43
+12/29/2019,East,Parent,Meghan,Pen Set,74,15.99,1183.26
+1/15/2020,Central,Gill,Margert,Binder,46,8.99,413.54
+2/1/2020,Central,Smith,Danuta,Binder,87,15,1305
+2/18/2020,East,Jones,Lilliam,Binder,4,4.99,19.96
+3/7/2020,West,Sorvino,Judi,Binder,7,19.99,139.93
+3/24/2020,Central,Jardine,Kimiko,Pen Set,50,4.99,249.5
+4/10/2020,Central,Andrews,Alpha,Pencil,66,1.99,131.34
+4/27/2020,East,Howard,Aaron,Pen,96,4.99,479.04
+5/14/2020,Central,Gill,Ronnie,Pencil,53,1.29,68.37
+5/31/2020,Central,Gill,Janean,Binder,80,8.99,713.2
+6/17/2020,Central,Kivell,Maxwell,Desk,5,125,625
+7/4/2020,East,Jones,Joaquin,Pen Set,62,4.99,309.38
+7/21/2020,Central,Morgan,Britni,Pen Set,55,12.49,686.95
+8/7/2020,Central,Kivell,Katheleen,Pen Set,42,23.95,1005.9
+8/24/2020,West,Sorvino,Franklin,Desk,3,275,825
+9/10/2020,Central,Gill,Norine,Pencil,7,1.29,9.03
+9/27/2020,West,Sorvino,Mario,Pen,76,1.99,151.24
+10/14/2020,West,Thompson,Morgan,Binder,57,19.99,1139.43
+10/31/2020,Central,Andrews,Kivell,Pencil,14,1.29,18.06
+11/17/2020,Central,Jardine,Brianna,Binder,11,4.99,54.89
+12/4/2020,Central,Jardine,Margert,Binder,94,19.99,1879.06
+12/21/2020,Central,Andrews,Danuta,Binder,28,4.99,3234
