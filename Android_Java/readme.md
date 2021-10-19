@@ -84,3 +84,5 @@
 - https://cloud.google.com/translate
 - https://developers.google.com/ml-kit/guides
 - https://developer.android.com/reference/android/speech/package-summary
+- https://github.com/FirebaseExtended/firebase-continue/blob/master/.gitignore
+
